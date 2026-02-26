@@ -1,0 +1,8 @@
+{
+  "name": "discord-redirect",
+  "version": "1.0.0",
+  "main": "redirect.js",
+  "scripts": {
+    "start": "node redirect.js"
+  }
+}
